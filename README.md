@@ -3,7 +3,7 @@ Given a boolean formula in propositional logic using the following symbols:
   * & for 'and'  
   * v for 'or'  
   * -> for 'implies'  
-  * ( )  
+  * ( ) to control order of operations
   * A[1-9][0-9]* for variables  
 
 returns a formula in connjunctive normal form using DIMACS format to be used as input compatible with MiniSAT.
