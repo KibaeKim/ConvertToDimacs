@@ -10,5 +10,5 @@ returns a formula in connjunctive normal form using DIMACS format to be used as 
 MiniSAT will return whether or not this formula is satisfiable.
 
 To run this program:
-1. Run 'python ConvertToDimacs'
+1. Run 'python ConvertToDimacs.py'
 2. When prompted, type in the boolean formula
