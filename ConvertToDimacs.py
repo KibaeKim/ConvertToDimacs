@@ -1,6 +1,3 @@
-# Kibae Kim V00878886
-# Project 1 -- CSC 322
-
 import re
 # SENT ::= DISJ | DISJ IMPOP SENT
 # DISJ ::= CONJ{OROP CONJ}
